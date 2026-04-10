@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/32b6c0e1-26ed-4dff-a26c-9ab03a54b23a
 
 ---
 
-## ⚙️ Installation du projet
+##  Installation du projet
 
 ### 1. Cloner le projet
 
@@ -67,7 +67,7 @@ http://localhost:3000
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 tp-api/
@@ -85,7 +85,7 @@ tp-api/
 
 ---
 
-## 🔍 Fonctionnalités
+##  Fonctionnalités
 
 ###  FetchData (fetch)
 
@@ -105,7 +105,7 @@ tp-api/
 
 ---
 
-## 🌐 API utilisée
+##  API utilisée
 
 * https://jsonplaceholder.typicode.com/
 
@@ -116,7 +116,7 @@ Endpoints utilisés :
 
 ---
 
-## 🎨 Interface utilisateur
+##  Interface utilisateur
 
 * Design moderne avec CSS
 * Cards (cartes) pour chaque section
@@ -125,7 +125,7 @@ Endpoints utilisés :
 
 ---
 
-## ⚖️ Différence entre fetch et axios
+##  Différence entre fetch et axios
 
 | fetch()               | axios                       |
 | --------------------- | --------------------------- |
@@ -136,7 +136,7 @@ Endpoints utilisés :
 ---
 
 
-## ❗ Gestion des erreurs
+##  Gestion des erreurs
 
 L'application gère :
 
@@ -146,6 +146,6 @@ L'application gère :
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
 * Nom : *ASMA LAOUY
