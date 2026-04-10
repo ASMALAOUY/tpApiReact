@@ -148,4 +148,4 @@ L'application gère :
 
 ##  Auteur
 
-* Nom : *ASMA LAOUY
+* Nom : ASMA LAOUY
